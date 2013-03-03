@@ -1,0 +1,28 @@
+
+
+// horizontal lines
+
+
+ctx.lineWidth = 8
+ctx.moveTo(30, 300)
+ctx.lineTo(330, 300)
+ctx.moveTo(45, 280)
+ctx.lineTo(315, 280)
+ctx.moveTo(55, 260)
+ctx.lineTo(300, 260)
+ctx.moveTo(65, 240)
+ctx.lineTo(290, 240)
+ctx.moveTo(73, 220)
+ctx.lineTo(270, 220)
+ctx.moveTo(83, 200)
+ctx.lineTo(250, 200)
+ctx.moveTo(93, 180)
+ctx.lineTo(230, 180)
+ctx.moveTo(103, 160)
+ctx.lineTo(210, 160)
+ctx.moveTo(113, 140)
+ctx.lineTo(180, 140)
+ctx.moveTo(123, 120)
+ctx.lineTo(160, 120)
+ctx.strokeStyle = 'rgba(100, 25, 10, .6)'
+ctx.stroke()
